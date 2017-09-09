@@ -25,10 +25,10 @@ console.log(jakarta); // Indonesia
 
 ## Api
 
-capitalOf(paramater : `String`)
-Returns name a city.
-returns `String`
+capitalOf(parameter : `string`)  
+Description : returns name a city.  
+Returns : `string`  
 
-isCapitalOf(paramater : `String`)
-Returns name a country.
-returns `String`
+isCapitalOf(parameter : `string`)  
+Description : return name a country.  
+Returns `string`  
