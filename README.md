@@ -15,7 +15,7 @@ var germany = capitals.capitalOf('Germany');
 console.log(germany); // Berlin
 ```
 
-Get a countriy name:
+Get a country name:
 ```JS
 var capitals = require('capitals');
 
