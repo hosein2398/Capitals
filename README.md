@@ -1,4 +1,4 @@
-# Capitals 
+# Capitals  [![Build Status](https://travis-ci.org/hosein2398/Capitals.svg?branch=master)](https://travis-ci.org/hosein2398/Capitals)
 Get countries' capitals name and reverse.
 
 ## Installation
@@ -25,10 +25,10 @@ console.log(jakarta); // Indonesia
 
 ## Api
 
-*capitalOf* (parameter : `string`)  
+**capitalOf** (parameter : `string`)  
 Description : returns name a city.  
 Returns : `string`  
 
-*isCapitalOf* (parameter : `string`)  
+**isCapitalOf** (parameter : `string`)  
 Description : return name a country.  
 Returns `string`  
