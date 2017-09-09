@@ -30,5 +30,5 @@ Description : returns name a city.
 Returns : `string`  
 
 **isCapitalOf** (parameter : `string`)  
-Description : return name a country.  
+Description : returns name a country.  
 Returns `string`  
