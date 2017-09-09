@@ -1,0 +1,14 @@
+{
+  "name": "capitals",
+  "version": "1.0.0",
+  "description": "Get countries capitals",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "author": "Hosein2398 <hosein2398@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
