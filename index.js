@@ -5,7 +5,6 @@ var jsonContent = JSON.parse(contents);
 function capitalOf(countryName) {
     for (key in jsonContent) {
         if (countryName.toLowerCase() === jsonContent[key].country.toLowerCase()) {
-            console.log(jsonContent[key].city);
             return jsonContent[key].city;
         }
     }
